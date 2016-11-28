@@ -83,8 +83,6 @@ public class RigidRocket: MonoBehaviour {
         {
             lineRenderer.enabled = false;
         }
-
-
     }
 
 }
